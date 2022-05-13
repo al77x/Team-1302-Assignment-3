@@ -1,4 +1,3 @@
-COMP501 assignment
 COMP501 assignment 3
 --------------------
 
